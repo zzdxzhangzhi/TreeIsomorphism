@@ -62,6 +62,7 @@
     <None Include="App.config" />
     <None Include="treetest.fsx" />
     <Content Include="treelabels.txt" />
+    <None Include="A5.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
